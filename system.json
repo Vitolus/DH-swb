@@ -44,5 +44,5 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "hope",
   "manifest": "https://raw.githubusercontent.com/Vitolus/DH-swb/master/system.json",
-  "download": "https://github.com/Vitolus/daggerheart-swb/archive/refs/tags/v1.4.9.zip"
+  "download": "https://github.com/Vitolus/DH-swb/archive/refs/tags/v1.4.9.zip"
 }
